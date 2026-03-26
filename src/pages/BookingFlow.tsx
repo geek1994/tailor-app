@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { Link, useNavigate } from "react-router";
+import {  useNavigate } from "react-router";
 import { ArrowLeft, ChevronRight } from "lucide-react";
 import { ServiceSelection } from "../components/booking/ServiceSelection";
 import { AddressInput } from "../components/booking/AddressInput";

@@ -1,5 +1,5 @@
 import { Link } from "react-router";
-import { ArrowLeft, MapPin, Calendar, Phone, MessageCircle } from "lucide-react";
+import { ArrowLeft, Calendar, Phone, MessageCircle } from "lucide-react";
 
 export function OrderTracking() {
   const statuses = [
