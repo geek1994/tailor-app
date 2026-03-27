@@ -32,7 +32,7 @@ export function Home() {
                 <Scissors className="w-6 h-6 text-white" />
               </div>
               <span className="font-bold text-2xl bg-gradient-to-r from-indigo-600 to-purple-600 bg-clip-text text-transparent">
-                StitchHome1
+                StitchHome
               </span>
             </div>
             <div className="hidden md:flex items-center gap-8">
